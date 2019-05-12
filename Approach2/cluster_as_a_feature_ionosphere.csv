@@ -1,0 +1,26 @@
+,n2n,p2n,n2p,p2p,Model
+0,135,3,2,1232,SVC
+1,57,34,80,1201,Random Forest
+2,135,57,2,1178,Naive Bayes
+3,135,20,2,1215,Logistic Regression
+4,56,41,81,1194,Decision Tree
+0,270,9,4,1089,SVC
+1,106,48,168,1050,Random Forest
+2,259,44,15,1054,Naive Bayes
+3,272,25,2,1073,Logistic Regression
+4,85,93,189,1005,Decision Tree
+0,392,27,20,933,SVC
+1,123,91,289,869,Random Forest
+2,397,44,15,916,Naive Bayes
+3,403,29,9,931,Logistic Regression
+4,84,140,328,820,Decision Tree
+0,516,29,33,794,SVC
+1,168,94,381,729,Random Forest
+2,528,43,21,780,Naive Bayes
+3,493,66,56,757,Logistic Regression
+4,140,126,409,697,Decision Tree
+0,237,367,449,319,SVC
+1,172,127,514,559,Random Forest
+2,334,314,352,372,Naive Bayes
+3,325,306,361,380,Logistic Regression
+4,128,145,558,541,Decision Tree
